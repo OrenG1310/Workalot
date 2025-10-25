@@ -521,11 +521,12 @@ dev_dependencies:
 ## UI/UX Design Guidelines
 
 ### Design Principles
-1. **Simplicity**: Clean, uncluttered interfaces
-2. **Consistency**: Uniform design language throughout
-3. **Accessibility**: High contrast, readable fonts, proper spacing
-4. **Responsiveness**: Smooth animations and transitions
-5. **Feedback**: Clear user feedback for all actions, especially sync status
+1. **Beautiful Design**: Modern, elegant and beatiful UI principles and design.
+2. **Simplicity**: Clean, uncluttered interfaces
+3. **Consistency**: Uniform design language throughout
+4. **Accessibility**: High contrast, readable fonts, proper spacing
+5. **Responsiveness**: Smooth animations and transitions
+6. **Feedback**: Clear user feedback for all actions, especially sync status
 
 ### Color Scheme Ideas
 

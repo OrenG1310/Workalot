@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994994923945",
+    "project_id": "workalot-9e092",
+    "storage_bucket": "workalot-9e092.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994994923945:android:ce2f961deefb4852a97cb8",
+        "android_client_info": {
+          "package_name": "com.example.workalot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf3Rm7OiDh-LV0EIZ76OTEbuaajf6dFiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
